@@ -1,0 +1,3 @@
+Dengan membuat weapontype di weapon kita lgsg memanggil weapontype sehingga tidak perlu middleman lagi untuk memanggil weapontype
+
+Karena file tersebut jadi outdated jadi kita membuat interface agar dapat dengan mudah membuat file tersebut menjadi lebih baik
