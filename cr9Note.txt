@@ -1,0 +1,5 @@
+Feature Envy 
+melakukan move method terhadap method getContactInfo
+
+Inappropriate Intimacy
+Membuat method getter dan mengubah public menjadi private
