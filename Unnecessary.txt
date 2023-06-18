@@ -1,0 +1,4 @@
+Unnecessary
+
+Di sini ada class seperti twodimensional dan threedimensional dan shape
+Ini disebut juga unnecessary sehingga dapat kita ubah dengan menghapus saja twodimensional dan threedimensional dan membuatny ke dalam shape abstract saja yang memudahkan code dibaca dan terawat baik.
